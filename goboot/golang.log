@@ -1,0 +1,120 @@
+INFO : 2018/06/27 14:33:18.824908 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 14:33:18.826909 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 14:35:03.030691 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 14:35:03.031691 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 14:36:03.757240 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 14:36:03.758754 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 14:40:19.411980 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 14:40:19.413976 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 14:40:23.092192 usercontroller.go:52: ******************************************
+INFO : 2018/06/27 14:43:46.842981 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 14:43:46.844981 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 14:44:02.834143 usercontroller.go:93: Create User ID of user is >> %d55
+INFO : 2018/06/27 14:44:39.090324 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 14:44:39.091325 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 14:44:48.858293 usercontroller.go:93: Create User ID of user is >> 56
+INFO : 2018/06/27 14:47:12.393861 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 14:47:12.395876 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 14:47:21.208579 usercontroller.go:51: List all Users  >>
+ERROR: 2018/06/27 14:47:21.209580 usercontroller.go:52: >>>>>>>>>>>>>>>>>>>>>>>>>> >>
+INFO : 2018/06/27 14:52:17.420609 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 14:52:17.422616 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 14:52:28.476901 usercontroller.go:149: RemoveUser ID of user is >>>>> 56
+INFO : 2018/06/27 14:52:36.644872 usercontroller.go:193: GET user ID is >>>>> 55
+INFO : 2018/06/27 14:52:40.013714 usercontroller.go:52: List all Users  >>
+INFO : 2018/06/27 14:52:49.369401 usercontroller.go:128: Update User is >>>>> [123 34 105 100 34 58 53 53 44 34 110 97 109 101 34 58 34 114 97 106 117 56 34 44 34 103 101 110 100 101 114 34 58 34 77 97 108 101 34 44 34 97 103 101 34 58 50 53 44 34 100 101 112 97 114 116 109 101 110 116 34 58 123 34 100 101 112 97 114 116 109 101 110 116 95 105 100 34 58 52 53 54 44 34 100 101 112 97 114 116 109 101 110 116 95 110 97 109 101 34 58 34 100 101 112 116 49 34 125 125]
+INFO : 2018/06/27 14:53:23.518519 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 14:53:23.521521 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 14:53:28.517121 usercontroller.go:128: Update User is >>>>> %s[123 34 105 100 34 58 53 53 44 34 110 97 109 101 34 58 34 114 97 106 117 56 34 44 34 103 101 110 100 101 114 34 58 34 77 97 108 101 34 44 34 97 103 101 34 58 50 53 44 34 100 101 112 97 114 116 109 101 110 116 34 58 123 34 100 101 112 97 114 116 109 101 110 116 95 105 100 34 58 52 53 54 44 34 100 101 112 97 114 116 109 101 110 116 95 110 97 109 101 34 58 34 100 101 112 116 49 34 125 125]
+INFO : 2018/06/27 14:55:07.710613 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 14:55:07.712109 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 14:55:11.466968 usercontroller.go:128: Update User is >>>>> 55
+INFO : 2018/06/27 15:23:31.845283 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 15:23:31.847284 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 15:23:39.981737 usercontroller.go:193: GET user ID is >>>>> 55
+INFO : 2018/06/27 15:34:24.811007 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 15:34:24.813004 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 15:34:34.132042 usercontroller.go:193: GET user ID is >>>>> 55
+INFO : 2018/06/27 15:47:50.132321 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 15:47:50.134323 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 15:47:53.684529 usercontroller.go:193: GET user ID is >>>>> 55
+INFO : 2018/06/27 15:51:41.146577 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 15:51:41.148578 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 15:51:45.559735 usercontroller.go:193: GET user ID is >>>>> 55
+INFO : 2018/06/27 15:53:28.970218 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 15:53:28.972220 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 15:58:21.700944 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 15:58:21.702945 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 15:58:25.085760 usercontroller.go:193: GET user ID is >>>>> 55
+INFO : 2018/06/27 16:00:09.926513 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 16:00:09.928515 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 16:00:13.328682 usercontroller.go:193: GET user ID is >>>>> 55
+INFO : 2018/06/27 16:03:11.868516 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 16:03:11.870018 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 16:03:13.820682 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 16:03:13.822684 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 16:03:26.875818 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 16:03:26.878320 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 16:03:30.322829 usercontroller.go:193: GET user ID is >>>>> 55
+INFO : 2018/06/27 16:08:34.902948 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 16:08:34.905451 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 16:08:38.318590 usercontroller.go:195: GET user ID is >>>>> 55
+INFO : 2018/06/27 16:09:06.827593 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 16:09:06.829094 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 16:09:10.280616 usercontroller.go:195: GET user ID is >>>>> 55
+INFO : 2018/06/27 16:22:33.439047 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 16:22:33.440548 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 16:22:37.805453 usercontroller.go:196: GET user ID is >>>>> 55
+INFO : 2018/06/27 16:23:11.959222 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 16:23:11.961223 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 16:23:15.668573 usercontroller.go:196: GET user ID is >>>>> 55
+INFO : 2018/06/27 16:26:28.187305 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 16:26:28.189295 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 16:26:31.432171 usercontroller.go:196: GET user ID is >>>>> 55
+INFO : 2018/06/27 16:28:18.914294 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 16:28:18.916310 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 16:28:22.630759 usercontroller.go:196: GET user ID is >>>>> 55
+INFO : 2018/06/27 17:26:33.542577 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 17:26:33.544578 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 17:26:37.341698 usercontroller.go:196: GET user ID is >>>>> 55
+INFO : 2018/06/27 17:26:47.958439 usercontroller.go:196: GET user ID is >>>>> 12
+INFO : 2018/06/27 17:29:15.325295 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 17:29:15.327297 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 17:29:17.750494 usercontroller.go:53: List all Users  >>
+INFO : 2018/06/27 17:35:00.616065 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 17:35:00.618066 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 17:35:04.385858 usercontroller.go:53: List all Users  >>
+INFO : 2018/06/27 17:35:12.804605 usercontroller.go:198: GET user ID is >>>>> 12
+INFO : 2018/06/27 17:35:18.796484 usercontroller.go:198: GET user ID is >>>>> 55
+INFO : 2018/06/27 17:35:30.765394 usercontroller.go:198: GET user ID is >>>>> 12
+INFO : 2018/06/27 17:36:34.263627 usercontroller.go:53: List all Users  >>
+INFO : 2018/06/27 17:39:32.182910 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 17:39:32.184411 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 17:39:38.549580 usercontroller.go:152: RemoveUser ID of user is >>>>> 56
+INFO : 2018/06/27 17:39:48.684066 usercontroller.go:152: RemoveUser ID of user is >>>>> 55
+INFO : 2018/06/27 17:39:57.720134 usercontroller.go:152: RemoveUser ID of user is >>>>> 55
+INFO : 2018/06/27 17:41:01.208480 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 17:41:01.209980 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 17:41:05.981222 usercontroller.go:98: Create User ID of user is >> 57
+INFO : 2018/06/27 17:41:11.654891 usercontroller.go:152: RemoveUser ID of user is >>>>> 57
+INFO : 2018/06/27 17:41:15.040560 usercontroller.go:152: RemoveUser ID of user is >>>>> 57
+INFO : 2018/06/27 17:43:10.405061 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 17:43:10.407062 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 17:43:15.528182 usercontroller.go:98: Create User ID of user is >> 58
+INFO : 2018/06/27 17:43:28.420119 usercontroller.go:131: Update User is >>>>> 58
+INFO : 2018/06/27 17:43:38.021987 usercontroller.go:131: Update User is >>>>> 59
+INFO : 2018/06/27 17:43:46.645266 usercontroller.go:131: Update User is >>>>> 12
+INFO : 2018/06/27 17:46:02.545007 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 17:46:02.546508 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 17:46:08.863427 usercontroller.go:98: Create User ID of user is >> 59
+INFO : 2018/06/27 17:48:26.784133 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 17:48:26.786136 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 17:48:36.691048 usercontroller.go:135: Update User is >>>>> 12
+INFO : 2018/06/27 17:49:21.435492 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 17:49:21.436994 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 17:49:24.931285 usercontroller.go:135: Update User is >>>>> 12
+INFO : 2018/06/27 17:50:06.895108 main.go:42: This will log to the log file and the system log
+INFO : 2018/06/27 17:50:06.897109 main.go:43: This is the same as using loggerOne
+INFO : 2018/06/27 17:50:10.514418 usercontroller.go:135: Update User is >>>>> 12
+INFO : 2018/06/27 17:50:23.242706 usercontroller.go:135: Update User is >>>>> 28
+INFO : 2018/06/27 18:07:23.126841 usercontroller.go:53: List all Users  >>
